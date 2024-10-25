@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him/His**.
 - ⚡ Fun fact: **Bridging the Digital and Physical Worlds through code 🌏👨🏻‍💻**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark&hide_border=false)
