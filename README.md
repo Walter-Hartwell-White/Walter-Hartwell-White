@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Walter-Hartwell-White's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark)
