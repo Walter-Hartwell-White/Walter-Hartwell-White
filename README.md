@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark&hide_border=false)
+![Walter-Hartwell-White's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark&hide_border=false&rank_icon=github&include_all_commits=true)
+
