@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Anything**.
 - 📫 How to reach me: **Not disclosing my identity due to privacy concerns. If the Universe wants us to meet, then it will happen no matter what**.
 - 😄 Pronouns: **He/Him/His**.
-- ⚡ Fun Quote: **Bridging the Digital and Physical Worlds through code 🌏👨🏻‍💻**
+- ⚡  Quote: **Bridging the Digital and Physical Worlds through code 🌏👨🏻‍💻**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
