@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Not disclosing my identity due to privacy concerns. If the Universe wants us to meet, then it will happen no matter what**.
 - 😄 Pronouns: **He/Him/His**.
 - ⚡  Quote: **Bridging the Digital and Physical Worlds through code 🌏👨🏻‍💻**
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Walter-Hartwell-White&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
+-->
 
 ![Walter-Hartwell-White's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-Hartwell-White&show_icons=true&theme=dark&hide_border=false&rank_icon=github&include_all_commits=true)
 
