@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Myself**.
 - 🌱 I’m currently learning **Quantum Physics**, and exploring **Universe**.
 - 👯 I’m looking to collaborate on **an idea that is going to become a Unicorn**.
-- 🤔 I’m looking for help with **Data Analysis & Algorithm** and **Theory of Computation**.
+- 🤔 I’m looking for help with **SwiftUI and Running Python on Server with MySQL Database**.
 - 💬 Ask me about **Anything**.
 - 📫 How to reach me: **Not disclosing my identity due to privacy concerns. If the Universe wants us to meet, then it will happen no matter what**.
 - 😄 Pronouns: **He/Him/His**.
